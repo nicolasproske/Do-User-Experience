@@ -23,8 +23,3 @@ _Developed and tested with_
 ![No. 1 principle - The magic behind consistency 🔮](ReadmeResources/No_1_Principle.png) ![]()
 ![The Big 6 - Apple's Design Principles 📦](ReadmeResources/The_Big_6.png) ![]()
 ![First exercise - Getting in touch 📱](ReadmeResources/First_Exercise.png) ![]()
-
----
-
-## License
-Distributed under the MIT License. See `LICENSE` for more information.
